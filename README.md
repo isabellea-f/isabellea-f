@@ -1,13 +1,9 @@
-<h1 align="center">Hi there 👋</h1>
+# Hi there :wave:
 
-<p align="center">
-I’m currently studying fullstack development and enjoy building functional, user-focused web applications.<br>
-Always learning - currently exploring <b>JavaScript</b>, <b>React</b>, and <b>backend development</b>.
-</p>
+I’m currently studying fullstack development and enjoy building functional, user-focused web applications.  
+Always learning - currently exploring **JavaScript**, **React**, and **backend development**.
 
-<p align="center">
-📫 Reach me at <a href="mailto:isabelle.franzen.if@gmail.com">isabelle.franzen.if@gmail.com</a>
-</p>
+:email: Reach me at [isabelle.franzen.if@gmail.com](mailto:isabelle.franzen.if@gmail.com)
 
 ## :computer: Tech Stack
 
